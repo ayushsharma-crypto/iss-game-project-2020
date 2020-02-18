@@ -1,6 +1,3 @@
-# ISS GAME PROJECT 2K20
-
-A short simple game  made using python's library pygame.
 ISS ASSIGNMENT 3:
 
 Basically, this game development project has been given to me as an assignment 
